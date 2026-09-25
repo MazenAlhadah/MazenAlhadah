@@ -53,18 +53,11 @@ A backend API for managing books, authors, and customers using ASP.NET Core and 
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,sqlserver,git,github,linux,vscode,rider" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,git,github,linux,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MazenAlhadah&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Find me on
 
