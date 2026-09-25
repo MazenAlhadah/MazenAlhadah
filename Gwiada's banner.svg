@@ -122,13 +122,13 @@
   <!-- NOME PRINCIPAL -->
   <g>
     <text x="65" y="130" class="main-title" style="text-shadow: 0 0 10px #FF1A4B, 0 0 2px #FFFFFF;">
-      Mohamed Ahmed Gwiada
+      Mazen Mohammed Alhadah
     </text>
   </g>
 
   <g>
     <text x="65" y="168" class="sub-title" clip-path="url(#typing-clip)">
-      Computer Science Student | Passionate about Software Development
+      Computer Science Student | BackEnd Developer
     </text>
   </g>
 </svg>
